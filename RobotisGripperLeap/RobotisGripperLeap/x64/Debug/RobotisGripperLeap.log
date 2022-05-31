@@ -1,0 +1,51 @@
+﻿빌드 시작: 2018-04-04 오후 7:44:23
+     1>2 노드의 "C:\Users\BioRob\Documents\Visual Studio 2013\Projects\RobotisGripperLeap\RobotisGripperLeap\RobotisGripperLeap.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /ID:\CustomLibraries\Eigen306 /ID:\CustomLibraries\RobotisManipulatorSDK_H_32bit\include /ID:\CustomLibraries\Leap_Motion_SDK_Win_3.1.3\LeapSDK\include /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt main.cpp Pro_Arm_Comm_Win.cpp SerialComm.cpp SerialPort.cpp
+         SerialPort.cpp
+     1>SerialPort.cpp(28): warning C4800: 'BOOL' : 'true' 또는 'false'로 bool 값을 강제하고 있습니다(성능 경고).
+     1>SerialPort.cpp(55): warning C4800: 'BOOL' : 'true' 또는 'false'로 bool 값을 강제하고 있습니다(성능 경고).
+     1>SerialPort.cpp(72): warning C4800: 'BOOL' : 'true' 또는 'false'로 bool 값을 강제하고 있습니다(성능 경고).
+     1>SerialPort.cpp(83): warning C4800: 'BOOL' : 'true' 또는 'false'로 bool 값을 강제하고 있습니다(성능 경고).
+         SerialComm.cpp
+         Pro_Arm_Comm_Win.cpp
+     1>Pro_Arm_Comm_Win.cpp(97): warning C4244: '인수' : '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Pro_Arm_Comm_Win.cpp(116): warning C4244: '인수' : '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Pro_Arm_Comm_Win.cpp(132): warning C4244: '인수' : '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Pro_Arm_Comm_Win.cpp(151): warning C4244: '인수' : '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Pro_Arm_Comm_Win.cpp(168): warning C4244: '인수' : '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Pro_Arm_Comm_Win.cpp(182): warning C4244: '인수' : '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Pro_Arm_Comm_Win.cpp(195): warning C4244: '인수' : '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Pro_Arm_Comm_Win.cpp(241): warning C4244: '인수' : '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Pro_Arm_Comm_Win.cpp(344): warning C4244: '인수' : '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Pro_Arm_Comm_Win.cpp(373): warning C4244: '인수' : '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Pro_Arm_Comm_Win.cpp(388): warning C4244: '인수' : '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Pro_Arm_Comm_Win.cpp(412): warning C4244: '인수' : '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Pro_Arm_Comm_Win.cpp(425): warning C4244: '인수' : '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Pro_Arm_Comm_Win.cpp(439): warning C4244: '인수' : '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Pro_Arm_Comm_Win.cpp(453): warning C4244: '인수' : '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Pro_Arm_Comm_Win.cpp(511): warning C4244: '인수' : '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Pro_Arm_Comm_Win.cpp(524): warning C4244: '인수' : '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Pro_Arm_Comm_Win.cpp(563): warning C4244: '인수' : '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Pro_Arm_Comm_Win.cpp(578): warning C4244: '인수' : '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Pro_Arm_Comm_Win.cpp(630): warning C4244: '인수' : '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Pro_Arm_Comm_Win.cpp(643): warning C4244: '인수' : '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Pro_Arm_Comm_Win.cpp(684): warning C4244: '인수' : '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+         main.cpp
+     1>main.cpp(514): warning C4244: '초기화 중' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>main.cpp(535): warning C4244: '초기화 중' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>main.cpp(536): warning C4244: '초기화 중' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>main.cpp(537): warning C4244: '초기화 중' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>main.cpp(496): warning C4101: 'DesiredPose_gr' :참조되지 않은 지역 변수입니다.
+         코드를 생성하고 있습니다...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\BioRob\Documents\Visual Studio 2013\Projects\RobotisGripperLeap\x64\Debug\RobotisGripperLeap.exe" /INCREMENTAL /NOLOGO /LIBPATH:D:\CustomLibraries\RobotisManipulatorSDK_H_32bit\lib /LIBPATH:D:\CustomLibraries\Leap_Motion_SDK_Win_3.1.3\LeapSDK\lib\x86 Leap.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"x64\Debug\RobotisGripperLeap.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\BioRob\Documents\Visual Studio 2013\Projects\RobotisGripperLeap\x64\Debug\RobotisGripperLeap.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\BioRob\Documents\Visual Studio 2013\Projects\RobotisGripperLeap\x64\Debug\RobotisGripperLeap.lib" /MACHINE:X64 x64\Debug\main.obj
+         x64\Debug\Pro_Arm_Comm_Win.obj
+         x64\Debug\SerialComm.obj
+         x64\Debug\SerialPort.obj
+     1>ARMSDKd.lib(ARMSDK_Math.obj) : fatal error LNK1112: 'X86' 모듈 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+     1>"C:\Users\BioRob\Documents\Visual Studio 2013\Projects\RobotisGripperLeap\RobotisGripperLeap\RobotisGripperLeap.vcxproj" 프로젝트를 빌드했습니다(Build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:04.63

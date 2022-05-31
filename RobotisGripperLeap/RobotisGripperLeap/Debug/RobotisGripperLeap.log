@@ -1,0 +1,19 @@
+﻿빌드 시작: 2019-02-19 오후 5:29:09
+     1>2 노드의 "C:\Users\BioRob\Documents\Visual Studio 2013\Projects\RobotisGripperLeap\RobotisGripperLeap\RobotisGripperLeap.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ID:\CustomLibraries\Eigen306 /ID:\CustomLibraries\RobotisManipulatorSDK_H_32bit\include /ID:\CustomLibraries\Leap_Motion_SDK_Win_3.1.3\LeapSDK\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         건너뛰고 있습니다... (관련된 변경 내용 없음)
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\BioRob\Documents\Visual Studio 2013\Projects\RobotisGripperLeap\Debug\RobotisGripperLeap.exe" /INCREMENTAL /NOLOGO /LIBPATH:D:\CustomLibraries\RobotisManipulatorSDK_H_32bit\lib /LIBPATH:D:\CustomLibraries\Leap_Motion_SDK_Win_3.1.3\LeapSDK\lib\x86 Leap.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\RobotisGripperLeap.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\BioRob\Documents\Visual Studio 2013\Projects\RobotisGripperLeap\Debug\RobotisGripperLeap.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\BioRob\Documents\Visual Studio 2013\Projects\RobotisGripperLeap\Debug\RobotisGripperLeap.lib" /MACHINE:X86 Debug\main.obj
+         Debug\Pro_Arm_Comm_Win.obj
+         Debug\SerialComm.obj
+         Debug\SerialPort.obj
+         RobotisGripperLeap.vcxproj -> C:\Users\BioRob\Documents\Visual Studio 2013\Projects\RobotisGripperLeap\Debug\RobotisGripperLeap.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"C:\Users\BioRob\Documents\Visual Studio 2013\Projects\RobotisGripperLeap\Debug\RobotisGripperLeap.exe.manifest" /manifest Debug\RobotisGripperLeap.exe.intermediate.manifest
+     1>"C:\Users\BioRob\Documents\Visual Studio 2013\Projects\RobotisGripperLeap\RobotisGripperLeap\RobotisGripperLeap.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:00.72
